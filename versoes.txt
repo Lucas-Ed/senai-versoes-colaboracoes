@@ -1,1 +1,5 @@
 #Ola Mundo !
+
+
+
+Lembrei do comando : git status
